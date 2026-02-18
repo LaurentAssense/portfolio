@@ -47,8 +47,8 @@ export function HomePage() {
             className="border-l-4 border-blue-600 pl-6 py-2"
           >
             <p className="text-lg text-slate-700 leading-relaxed">
-              Je vous propose de retrouver sur ce portfolio les différentes études, certifications et projets
-              professionnels que j'ai pu entreprendre au sein de ma scolarité.
+              Ce portfolio présente les différentes études, certifications et projets
+              professionnels que j'ai pu entreprendre durant de ma scolarité.
             </p>
           </motion.div>
 
