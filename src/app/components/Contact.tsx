@@ -102,7 +102,7 @@ export function Contact() {
               <div className="bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 rounded-2xl p-8 text-white">
                 <h4 className="text-xl mb-3">Disponibilité</h4>
                 <p className="text-white/90">
-                  Je suis actuellement disponible pour de nouveaux projets freelance
+                  Actuellement disponible pour de nouveaux projets freelance
                   et collaborations.
                 </p>
               </div>

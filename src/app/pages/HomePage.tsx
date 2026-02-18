@@ -35,7 +35,7 @@ export function HomePage() {
             className="border-l-4 border-blue-600 pl-6 py-2"
           >
             <p className="text-lg text-slate-700 leading-relaxed">
-              Je suis actuellement étudiant à l'<span className="text-slate-900 font-semibold">INSSET de Saint-Quentin</span> en{' '}
+              Actuellement étudiant à l'<span className="text-slate-900 font-semibold">INSSET de Saint-Quentin</span> en{' '}
               <span className="text-slate-900 font-semibold">Licence professionnelle Métiers de l'informatique : conception, développement et test de logiciels</span>.
             </p>
           </motion.div>
