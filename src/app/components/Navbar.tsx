@@ -28,7 +28,7 @@ export function Navbar() {
             to="/"
             className="text-xl font-bold text-slate-900 hover:text-blue-600 transition-colors"
           >
-            Laurent Assensé
+            Portfolio 2026
           </Link>
 
           {/* Desktop Navigation */}

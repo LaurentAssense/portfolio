@@ -162,8 +162,8 @@ export function CertificationPage() {
           <div className="h-1 w-20 bg-blue-600 mb-8"></div>
           
           <p className="text-lg text-slate-600 max-w-3xl leading-relaxed">
-            Au cours de mes formations j'ai, été amené à travailler mon parcours de formation complémentaire. 
-            Vous trouverez ci-dessous l'ensemble des formations que j'ai suivies.
+            Au cours de mon parcours, j’ai pu compléter et approfondir mes compétences grâce à diverses formations.
+            Vous trouverez ci-dessous chacune d’elles ainsi que leurs objectifs.
           </p>
         </motion.div>
 
